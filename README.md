@@ -4,19 +4,6 @@ Website for Dynamo Building Solutions Inc., 24/7 commercial building and plaza m
 
 The whole site is one file, `index.html`, published with GitHub Pages from the `main` branch.
 
-## Adding your photos
+## Photos
 
-The photo cards look for these files in the `images/` folder. Until a file is added, its card shows the plain blue background with its caption. Upload a JPG with the exact name and it appears on the site.
-
-- images/commercial-building.jpg
-- images/loading-dock.jpg
-- images/storefront.jpg
-- images/industrial-gate.jpg
-- images/commercial-plaza.jpg
-- images/garage-door.jpg
-- images/metal-door.jpg
-- images/storefront-2.jpg
-- images/barrier-gate.jpg
-- images/welding.jpg
-- images/loading-dock-2.jpg
-- images/commercial-maintenance.jpg
+The 12 photo cards use AI-generated example images made with Higgsfield, linked from Higgsfield's image hosting. They show the kind of work Dynamo does, not actual Dynamo jobs. To use your own photos, upload them to an `images/` folder and change each card's `src` in `index.html` to point at the file, for example `images/garage-door.jpg`.
