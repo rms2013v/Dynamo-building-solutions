@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dynamobusinesssolutions.com/sitemap.xml
+Sitemap: https://dynamobuildingsolutions.com/sitemap.xml
